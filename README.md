@@ -74,6 +74,5 @@ teachable-machine-model-code
 5. The UI updates the detected class label and confidence bars in real time.
 
 ## Credits
-
-GDG-Malta  
+ 
 Developed by [Andrea Filiberto Lucas](mailto:contact@aflucas.com) for the Drink w/AI Event.
