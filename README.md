@@ -15,7 +15,6 @@
 
 - `code.html` - Main single-page application
 - `wine.png` - Favicon / branding asset
-- `wine.webp` - Additional image asset
 
 ## Requirements
 
@@ -74,19 +73,7 @@ teachable-machine-model-code
 4. Webcam frames are sent to the model for prediction.
 5. The UI updates the detected class label and confidence bars in real time.
 
-## Notes
-
-- If the stored model code is removed, the app prompts for a new one.
-- If the model code is changed, the current webcam/model session is reset.
-- The stop button shuts down the webcam feed and resets the interface.
-
 ## Credits
 
 GDG-Malta  
 Developed by [Andrea Filiberto Lucas](mailto:contact@aflucas.com) for the Drink w/AI Event.
-
-## Social Links
-
-- Facebook: https://www.facebook.com/gdgmalta
-- Instagram: https://www.instagram.com/gdgmalta
-- LinkedIn: https://www.linkedin.com/company/gdg-malta
